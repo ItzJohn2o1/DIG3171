@@ -17,6 +17,7 @@ Here is the Voyant word cloud for Martin Luther King Jr.’s historic "I Have a 
 ---
 CoPilot Replies
 Martin Luther King Jr.’s speech centers on the urgent demand for racial equality and justice in America. He highlights the broken promises of freedom and rights for Black Americans, emphasizing the ongoing struggles of segregation, discrimination, and poverty. King calls for peaceful resistance and unity, envisioning a future where people are judged by character, not skin color. His dream is rooted in hope, faith, and the belief that freedom and brotherhood will one day prevail across the nation.
+
 MLK uses repetition to reinforce key ideas and create a rhythmic, memorable structure—most notably in the phrase “I have a dream,” which emphasizes his vision for a just future. He employs metaphors like “a bad check” to illustrate the betrayal of constitutional promises and “the quicksands of racial injustice” versus “the solid rock of brotherhood” to contrast instability with unity. These devices evoke strong emotional responses, clarify complex issues, and inspire collective action by painting vivid, relatable images.
 ---
 Reflection and Summary
