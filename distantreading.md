@@ -11,6 +11,7 @@ title: Distant Reading Project
 Martin Luther King Jr.’s “I Have a Dream” – Distant Reading Project
 Voyant Visualization
 Here is the Voyant word cloud for Martin Luther King Jr.’s historic "I Have a Dream" speech. The size of each word corresponds to its frequency in the speech, highlighting the themes that surface repeatedly.
+
 ![voyant_picture](wordsfrommlkspeech.png)
 
 ---
