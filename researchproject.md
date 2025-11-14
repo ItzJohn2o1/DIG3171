@@ -31,11 +31,9 @@ This computational approach allows for objective, data-driven assessment of ling
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
 
 <style>
   .works-cited {
-    margin-left: 2em;
     text-indent: -2em;
     line-height: 1.5;
   }
@@ -54,11 +52,9 @@ This computational approach allows for objective, data-driven assessment of ling
 
 <p class="works-cited">
   Yan, Lixiang, et al. <em>Practical and Ethical Challenges of Large Language Models in Education</em>. Press, 2025.
-</p>
 
 <p class="works-cited">
   Zhou, Eric, and Dokyun Lee. <em>Generative Artificial Intelligence, Human Creativity, and Art</em>. Press, 2025.
 </p>
 
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
 </p>
