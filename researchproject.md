@@ -32,6 +32,15 @@ This computational approach allows for objective, data-driven assessment of ling
 # Works Cited
 
 
+
+## Digital Project: Voyant Analysis
+
+View the interactive Voyant Tools analysis comparing AI-generated and human-written tech content:
+
+[Voyant Analysis: AI vs Human Text](https://voyant-tools.org/?corpus=bbbacb592efe6769def859e5c0a1e7ca)
+
+This analysis demonstrates differences in lexical diversity, word frequency patterns, and linguistic homogeneity between AI-generated content and human-authored journalism.
+
 <style>
   .works-cited {
     text-indent: -2em;
